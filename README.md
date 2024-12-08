@@ -16,7 +16,7 @@ This is an experimental client focusing on a specific experience: a clean, chron
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/iC0rraxX/skybot.git
+git clone https://github.com/cver-me/Skybot.git
 cd skybot
 npm install
 npm run dev
